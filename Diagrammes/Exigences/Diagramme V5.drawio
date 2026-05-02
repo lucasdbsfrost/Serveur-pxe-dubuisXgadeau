@@ -1,0 +1,276 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="req" id="nDRhoO4UidFHIrsTU0Hw">
+    <mxGraphModel dx="1503" dy="3000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-20" target="vMuXSLE0jQE3x4hXMhOf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="743" y="-114.51999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=1.006;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="843" y="-898.6855172413793" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Réseau&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Avoir un réseau qui interconnecte les machines élèves&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-997" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Internet&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;le système doit avoir un accès a internet&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="293" y="-1377" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Sécurité&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le réseau doit être sécurisé&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="902.9999999999999" y="-827" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Pare-feu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&quot;text=&quot;Filtré les données entrantes et sortantes&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="-640.76" width="193" height="127.52" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-7" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-6" target="vMuXSLE0jQE3x4hXMhOf-5">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="1460" y="-400.76" as="sourcePoint" />
+            <mxPoint x="1620" y="-400.76" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Déploiement&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.3&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Déployer deux iso sur un dual boot (Windows et Kali Linux)&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="886.75" y="-407" width="174" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-23" target="vMuXSLE0jQE3x4hXMhOf-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="926.8700000000001" y="-599.48" as="sourcePoint" />
+            <mxPoint x="945.1368493150683" y="-440.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-10" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-58" target="vMuXSLE0jQE3x4hXMhOf-8">
+          <mxGeometry x="0.0351" y="42" width="160" relative="1" as="geometry">
+            <mxPoint x="1053" y="-227" as="sourcePoint" />
+            <mxPoint x="1064.6000000000004" y="-257" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-23" target="vMuXSLE0jQE3x4hXMhOf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="-49.48000000000002" as="sourcePoint" />
+            <mxPoint x="919" y="50.51999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Accès sans fils&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit avoir un réseau wifi et internet&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="649.75" y="-407" width="174" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-13" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-14" target="vMuXSLE0jQE3x4hXMhOf-12">
+          <mxGeometry x="-0.1429" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="738.25" y="-156.04000000000002" as="sourcePoint" />
+            <mxPoint x="669.75" y="-277" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Point d&#39;accès sans fils&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.2.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Routeur Xiaomi&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="649.75" y="-237" width="177" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Pentest&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Test de pénétration du système&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="533" y="-1619.3" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-23" target="vMuXSLE0jQE3x4hXMhOf-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="563" y="-199.47999999999996" as="sourcePoint" />
+            <mxPoint x="433" y="-19.480000000000018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Séparation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Séparation des réseaux lan SUD7 et lan invité&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="421.25" y="-407" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-18" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0.38;entryY=0.997;entryDx=0;entryDy=0;exitX=0.431;exitY=-0.002;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-19" target="vMuXSLE0jQE3x4hXMhOf-17">
+          <mxGeometry x="-0.1429" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="542.75" y="-157" as="sourcePoint" />
+            <mxPoint x="541.2500000000005" y="-217" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;VLAN&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.1.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Mise en place d&#39;un réseau virtuel sur le switch&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="405.25" y="-247" width="177" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Exigences Fonctionelles&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le diagramme doit répondre aux besoins fonctionelles des utilisateurs&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="583" y="-1197" width="197" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Exigences Légales&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.2.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit respecter les règles de respect des données utilisateurs&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="313" y="-1077" width="177" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-22" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Exigences Environnementales&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.3.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit être adapté à son environnement d&#39;installation&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="383" y="-847" width="167" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-23" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Exigences Techniques&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit répondre aux besoins techniques des utilisateurs&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="653" y="-674.52" width="177" height="114.52" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-24" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Exigences Energétiques&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit répondre aux exigences de consommation énergétique pour le fonctionnement des différents composants&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="886.75" y="-1207" width="217" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="-997" as="sourcePoint" />
+            <mxPoint x="463" y="-961" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553" y="-941" as="sourcePoint" />
+            <mxPoint x="473" y="-951" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718.6399999999999" y="-794.5200000000002" as="sourcePoint" />
+            <mxPoint x="403" y="-731.6400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="854.3599999999997" y="-780.3199999999999" as="sourcePoint" />
+            <mxPoint x="533" y="-838.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-3" target="vMuXSLE0jQE3x4hXMhOf-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="853" y="-897" as="sourcePoint" />
+            <mxPoint x="513" y="-911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-30" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Serveur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5.1.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Consommation électrique du serveur PXE&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="-1417" width="177" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-24" target="vMuXSLE0jQE3x4hXMhOf-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1013" y="-1086.4" as="sourcePoint" />
+            <mxPoint x="1478.45" y="-1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Ventilation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.3.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le serveur et le pare-feu devront être placé dans des endroits aéré afin d&#39;assurer leur flux d&#39;air pour réguler leur température&amp;nbsp;&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-867" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="-807" as="sourcePoint" />
+            <mxPoint x="183.00000000000023" y="-803.875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-34" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Câblage&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.3.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Les distances séparant les appareils devront être pris en compte pour le branchement des câbles entre les appareils&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-699.52" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-35" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Accès sans-fil&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.3&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le wifi devra couvrir toute la zone de la salle SUD7&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="283" y="-624.52" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.165;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-22" target="vMuXSLE0jQE3x4hXMhOf-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473" y="-755.2965853658534" as="sourcePoint" />
+            <mxPoint x="263" y="-757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-22" target="vMuXSLE0jQE3x4hXMhOf-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="-757" as="sourcePoint" />
+            <mxPoint x="183" y="-757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;RGPD&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.2.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;L&#39;infrastructure doit se conformer au RGPD pour les données qui transite sur le réseau&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-1222" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-21" target="vMuXSLE0jQE3x4hXMhOf-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="-775" as="sourcePoint" />
+            <mxPoint x="-67" y="-813" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-40" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Borne Wifi&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5.2.&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Consommation électrique des points d&#39;accès wifi&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-1180" width="177" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-24" target="vMuXSLE0jQE3x4hXMhOf-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1123" y="-1110.3000000000002" as="sourcePoint" />
+            <mxPoint x="1322.04" y="-1207.0026778882939" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-42" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Pare-feu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.5.3&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Consommation électrique du système pare-feu&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="-937" width="193" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-24" target="vMuXSLE0jQE3x4hXMhOf-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1024.8400000000001" y="-1001.7000000000003" as="sourcePoint" />
+            <mxPoint x="1066.45" y="-1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-44" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Formation&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Donner des conseils de sécurité contre les attaques en informatique&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="823.75" y="-1619.3" width="179.25" height="112.3" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-45" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0.874;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.469;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-44" target="vMuXSLE0jQE3x4hXMhOf-46">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="1048" y="-1413.3" as="sourcePoint" />
+            <mxPoint x="867.4000000000001" y="-1397" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-46" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Cyber-sécurité&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Assurer la protection des systèmes d&#39;information&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="658.25" y="-1377" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=circlePlus;startFill=0;endArrow=none;endFill=0;exitX=0.601;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.326;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-20" target="vMuXSLE0jQE3x4hXMhOf-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="-1187" as="sourcePoint" />
+            <mxPoint x="676" y="-1367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-48" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Règle d&#39;engagement opérationnelle&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.1.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Demander au client &lt;span&gt;les conditions d&#39;intervention dans un contexte de sécurité&quot;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="303" y="-1847" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-49" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.469;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-48" target="vMuXSLE0jQE3x4hXMhOf-15">
+          <mxGeometry x="-0.2006" y="-15" width="160" relative="1" as="geometry">
+            <mxPoint x="805.5" y="-1591" as="sourcePoint" />
+            <mxPoint x="621.5" y="-1560.7" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-50" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0.381;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-15" target="vMuXSLE0jQE3x4hXMhOf-46">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="606" y="-1497" as="sourcePoint" />
+            <mxPoint x="603" y="-1361" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-51" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0.389;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.469;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-52" target="vMuXSLE0jQE3x4hXMhOf-44">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="1113.75" y="-1591" as="sourcePoint" />
+            <mxPoint x="899.25" y="-1620" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-52" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Non-initié&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.2.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Sensibiliser les non-initiés en informatique&lt;span&gt;&quot;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="818.25" y="-1827" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-53" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Entreprise&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.2.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Sensibiliser une campagne&lt;span&gt;&quot;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="-1787" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-54" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-53" target="vMuXSLE0jQE3x4hXMhOf-44">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="1053.29" y="-1619.3000000000002" as="sourcePoint" />
+            <mxPoint x="1053" y="-1542.55" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-55" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bilan&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.1.2.1.2&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Faire un bilan détaillé des démarches réalisées&lt;span&gt;&quot;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="533" y="-1847" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-56" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;entryX=0.59;entryY=0.01;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-55" target="vMuXSLE0jQE3x4hXMhOf-15">
+          <mxGeometry x="-0.1463" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="457" y="-1637" as="sourcePoint" />
+            <mxPoint x="463" y="-1563" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vMuXSLE0jQE3x4hXMhOf-8" target="vMuXSLE0jQE3x4hXMhOf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vMuXSLE0jQE3x4hXMhOf-58" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Serveur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;1.4.3.1&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Déployer le serveur sur FOG&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="886.75" y="-237" width="177" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
